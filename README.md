@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Deploy
 
-Live Site URL: 
+[Live Site URL](https://arkhamknightgpc.github.io/news-homepage/)
 
 ### Available Scripts
 
